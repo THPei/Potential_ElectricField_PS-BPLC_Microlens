@@ -1,6 +1,7 @@
 # Potential_ElectricField_PS-BPLC_Microlens
 The software for the publication about The Distributions of The Electric Potential and Fields in The Polymer-Stabilized Blue Phase Liquid Crystals Between Two Parallel Electrodes
-We present software for calculating the analytical distributions of potential and field in microlens made of polymer-stabilized blue-phase liquid crystals. The microlens is located between two electrodes with a circular opening on the upper electrode. The program is encoded using the derived analytical solution formulas of the potential and electric field. It is faster, more energy-saving, and has less memory configuration than the finite-difference equation method solving by using the Poisson Equation with boundary conditions. The software outputs relevant Data files and a MATLAB code that can draw the distributions of potential, electric field, and directors, allowing the calculations visualized.
+
+  We present software for calculating the analytical distributions of potential and field in microlens made of polymer-stabilized blue-phase liquid crystals. The microlens is located between two electrodes with a circular opening on the upper electrode. The program is encoded using the derived analytical solution formulas of the potential and electric field. It is faster, more energy-saving, and has less memory configuration than the finite-difference equation method solving by using the Poisson Equation with boundary conditions. The software outputs relevant Data files and a MATLAB code that can draw the distributions of potential, electric field, and directors, allowing the calculations visualized.
 
 In this code, please compile it in a C/C++ environment. For example. you can use the open C/C++ platform Dev C++ to compile it. Then according to the parameter input processes, please input all parameters for the programm running. The instructions for the parameter input processes are listed in the following:
 
@@ -32,4 +33,4 @@ Please enter the grid spacing in the x direction (radial direction) (in units of
 
 Please enter the grid spacing in the z direction (radius direction) (in units of micrometer): 
 
-After those input processes, the program will run automatically. After completing the running, the program will output a Matlab code to plot some figures and Voltage.dat, E_radius.dat, Ez.dat, E_radius_Dr.dat, E_radius_Dz.dat, Ez_Dr.dat, and Ez_Dz.dat for use. 
+  After those input processes, the program will run automatically. After completing the running, the program will output a Matlab code to plot some figures and Voltage.dat, E_radius.dat, Ez.dat, E_radius_Dr.dat, E_radius_Dz.dat, Ez_Dr.dat, and Ez_Dz.dat for use. 
