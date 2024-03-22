@@ -4,16 +4,26 @@ We present software for calculating the analytical distributions of potential an
 
 In this code, please compile it in a C/C++ environment. For example. you can use the open C/C++ platform Dev C++ to compile it. Then according to the parameter input processes, please input all parameters for the programm running. The instructions for the parameter input processes are listed in the following:
 
-Please enter the ordinary refractive index of Blue-phase Liquid Crystal when there is no external potential: no= 
+Please enter the ordinary refractive index of Blue-phase Liquid Crystal when there is no external potential: no=
+
 Please enter the extra-ordinary refractive index of Blue-phase Liquid Crystal when there is no external potential: ne= 
+
 Please enter the dielectric constant when Blue-phase Liquid Crystal is driven by AC voltage: 
+
 Please enter the potential difference applied to Blue-phase Liquid Crystal: 
+
 Please enter the cell gap of Blue-phase Liquid Crystal (in units of micrometer): 
-Please enter the Kerr constant of Blue-Phase Liquid Crystal (in units of nm/VV): 
+
+Please enter the Kerr constant of Blue-Phase Liquid Crystal (in units of nm/VV):
+
 Please enter the saturation electric field of Blue-Phase Liquid Crystal (in units of V/um): 
+
 Please enter the Threshold voltage that causes Blue-Phase Liquid Crystal to perform Kerr Effect (>=0): 
+
 Please enter the sign to make the Kerr effect of Blue-Phase Liquid Crystal produce Birefringence (1 or -1): 
+
 Please enter the number of additional mirror potentials required to satisfy the upper and lower plate boundary conditions: 
+
 Please enter the opening radius of the Blue-phase Liquid Crystal lens (in units of micrometer): 
 Please enter the wavelength of the incident light (in units of nanometer): 
 Please enter the grid spacing in the x direction (radial direction) (in units of micrometer): 
